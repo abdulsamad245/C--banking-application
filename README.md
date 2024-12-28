@@ -57,10 +57,7 @@ The application allows bank employees to create new customer accounts, perform t
 
 1. Pre-Requisites: Ensure you have .NET 6.0 or later installed on your system.
    
-2. Clone the Repository: Clone the project repository from GitHub using the following command:
-   ```bash
-   git clone <repository_url>
-   ```
+2. Clone the Repository
 
 3. Navigate to the Project Directory: Use the terminal or command prompt to navigate to the project directory.
 
