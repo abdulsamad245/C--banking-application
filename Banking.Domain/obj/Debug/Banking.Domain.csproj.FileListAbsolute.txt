@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\bin\Debug\Banking.Domain.dll
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\bin\Debug\Banking.Domain.pdb
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\obj\Debug\Banking.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\obj\Debug\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\obj\Debug\Banking.Domain.dll
+C:\Users\Dell\source\repos\BankingApplication\Banking.Domain\obj\Debug\Banking.Domain.pdb
